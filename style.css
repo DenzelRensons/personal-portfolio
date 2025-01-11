@@ -384,11 +384,20 @@ nav .fa-solid{
         font-size: 14px;
         flex-basis: 100%;
     }
+     .services-list div{
+         flex-basis: 100%;
+     }
     .tab-links{
         font-size: 16px;
         margin-right: 20px;
     }
-    .contact-left, .contact-right{
+     .work-list div{
+         flex-basis: 100%;
+     }
+    .contact-left{
+        flex-basis: 100%;
+    } 
+     .contact-right{
         flex-basis: 100%;
     }
     .copyright{
